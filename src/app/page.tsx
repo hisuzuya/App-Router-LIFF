@@ -15,8 +15,6 @@ export default function Home() {
         </a>
 
         <Profile />
-        <Profile />
-        <Profile />
       </main>
     </div>
   );
